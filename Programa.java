@@ -4,6 +4,7 @@ class Programa {
 
 		System.out.println("ola mundo, agora estamos no Git");
 		System.out.println("Não gostei... imprime outra coisa");
+		System.out.println("Corrigindo bug no branch master");
 
 	}
 
