@@ -7,4 +7,9 @@ class Programa {
 
 	}
 
+	public static int produto(int a, int b){
+
+		return a * b;
+	}
+
 }
