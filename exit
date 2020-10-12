@@ -1,0 +1,48 @@
+*   [33mcommit 0527b51fc7b7e895c3b00fc24e2e0f33c93099fd[m[33m ([m[1;36mHEAD -> [m[1;32mmaster[m[33m)[m
+[31m|[m[32m\[m  Merge: 60f8427 ea46294
+[31m|[m [32m|[m Author: Heliel Amaro <hfamaro@hotmail.com>
+[31m|[m [32m|[m Date:   Mon Oct 12 16:05:33 2020 -0400
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Merge branch 'titulo' into master
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit ea4629473707d374b89327b2e50ea8305938d2fd[m[33m ([m[1;32mtitulo[m[33m)[m
+[31m|[m [32m|[m Author: Heliel Amaro <hfamaro@hotmail.com>
+[31m|[m [32m|[m Date:   Mon Oct 12 15:54:16 2020 -0400
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Colocando variável soma para facilitar compreensao
+[31m|[m [32m|[m 
+[31m|[m * [33mcommit 6af1b42b956e248374e0c54d7b5a1e4921f6228b[m
+[31m|[m [32m|[m Author: Heliel Amaro <hfamaro@hotmail.com>
+[31m|[m [32m|[m Date:   Mon Oct 12 15:52:43 2020 -0400
+[31m|[m [32m|[m 
+[31m|[m [32m|[m     Incluindo função soma
+[31m|[m [32m|[m 
+* [32m|[m [33mcommit 60f8427cc13ebee29f7282e8fb782217b078be7f[m
+[32m|[m[32m/[m  Author: Heliel Amaro <hfamaro@hotmail.com>
+[32m|[m   Date:   Mon Oct 12 16:04:40 2020 -0400
+[32m|[m   
+[32m|[m       corrigindo bug no branch master
+[32m|[m 
+* [33mcommit e43cd27c5709db071dde49fd28a299ade6d2a0f6[m[33m ([m[1;31morigin/master[m[33m, [m[1;31mlocal/master[m[33m)[m
+[32m|[m Author: Heliel Amaro <hfamaro@hotmail.com>
+[32m|[m Date:   Sun Oct 11 23:43:19 2020 -0400
+[32m|[m 
+[32m|[m     Não gostei da forma como vc imprimiu
+[32m|[m 
+* [33mcommit 78f5ffcf567a8748b707edf96879d5ec53328a88[m
+[32m|[m Author: Heliel Amaro <hfamaro@hotmail.com>
+[32m|[m Date:   Sat Oct 10 22:05:55 2020 -0400
+[32m|[m 
+[32m|[m     Incluido .gitignore
+[32m|[m 
+* [33mcommit 9e10cd637b68a6945b13e6cafbbc0edb0727260e[m
+[32m|[m Author: Heliel Amaro <hfamaro@hotmail.com>
+[32m|[m Date:   Sat Oct 10 20:15:41 2020 -0400
+[32m|[m 
+[32m|[m     Adicionei mais um print falando sobre o ATOM
+[32m|[m 
+* [33mcommit d5d5297bb4d2851b2d7aab1a6b8dac1fb99f27f0[m
+  Author: Heliel Amaro <hfamaro@hotmail.com>
+  Date:   Sat Oct 10 20:10:14 2020 -0400
+  
+      Programa Inicial Hello World Treinamento de Java

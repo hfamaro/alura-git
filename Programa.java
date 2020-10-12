@@ -8,7 +8,10 @@ class Programa {
 	}
 
 	public static int soma(int a, int b){
-
+		if (a > b){
+			System.out.println("A não pode ser maior que B");
+			return 0;
+		}
 		int soma = a + b;
 		return soma;
 	}
