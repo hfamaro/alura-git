@@ -10,7 +10,7 @@ class Programa {
 
 	public static int soma(int a, int b){
 		if (a > b){
-			System.out.println("A não pode ser maior que B");
+			System.out.println("A não pode ser maior que B, seu energumeno");
 			return 0;
 		}
 		int soma = a + b;
