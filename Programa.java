@@ -15,6 +15,13 @@ class Programa {
 		}
 		int soma = a + b;
 		return soma;
+	}	
+	public static int produto(int a, int b){
+		if (a == 0 || b == 0){
+			System.out.println("A e B não podem ser 0");
+			return 0;
+		}
+		return a * b;
 	}
 
 }
