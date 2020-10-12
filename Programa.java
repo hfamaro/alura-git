@@ -9,7 +9,8 @@ class Programa {
 
 	public static int soma(int a, int b){
 
-		return a + b;
+		int soma = a + b;
+		return soma;
 	}
 
 }
