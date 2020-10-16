@@ -18,11 +18,8 @@ class Programa {
 	}	
 	public static int produto(int a, int b){
 		if (a == 0 || b == 0){
-<<<<<<< Updated upstream
 			// Comentário feito depois
-=======
 			// Comentário para finalizar depois
->>>>>>> Stashed changes
 			System.out.println("A e B não podem ser 0");
 			return 0;
 		}
