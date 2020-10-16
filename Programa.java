@@ -20,6 +20,7 @@ class Programa {
 		if (a == 0 || b == 0){
 			// Comentário feito depois
 			// Comentário para finalizar depois
+			// adicionado mas não comitado para ver com git diff
 			System.out.println("A e B não podem ser 0");
 			return 0;
 		}
